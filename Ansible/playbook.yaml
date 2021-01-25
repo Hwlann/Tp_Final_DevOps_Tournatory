@@ -1,5 +1,5 @@
 ---
-- name: Name this instruction
+- name: Install Docket & Clone repo
   hosts: jenkins
   gather_facts: true
   become: true
